@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Self Notify</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_text">Text</string>
+    <string name="label_type">Notification type</string>
+    <string name="type_default">Default</string>
+    <string name="type_high">High priority (heads-up popup)</string>
+    <string name="type_low">Low priority (quiet)</string>
+    <string name="type_silent">Silent (no sound)</string>
+    <string name="label_schedule">Schedule</string>
+    <string name="btn_pick_time">Pick date &amp; time</string>
+    <string name="no_time_selected">No time selected yet</string>
+    <string name="btn_schedule">Schedule notification</string>
+    <string name="btn_send_now">Send now</string>
+    <string name="label_upcoming">Upcoming notifications</string>
+    <string name="no_upcoming">Nothing scheduled</string>
+    <string name="btn_cancel_all">Cancel all scheduled</string>
+    <string name="toast_sent">Notification sent</string>
+    <string name="toast_scheduled">Notification scheduled</string>
+    <string name="toast_cancelled_all">All scheduled notifications cancelled</string>
+    <string name="error_title_empty">Enter a title first</string>
+    <string name="error_time_past">Please pick a time in the future</string>
+    <string name="permission_denied_hint">Notification permission denied — notifications will not appear. Enable it in Settings.</string>
+    <string name="exact_alarm_hint">Grant "Alarms &amp; reminders" permission so scheduled notifications fire exactly on time.</string>
+</resources>
